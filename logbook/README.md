@@ -9,6 +9,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
+
 <h3 align="center">LogBook</h3>
 
   <p align="center">
@@ -24,7 +25,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -46,7 +47,7 @@
     </li>
     
   </ol>
-</details>
+
 
 
 
