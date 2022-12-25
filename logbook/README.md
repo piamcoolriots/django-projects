@@ -16,9 +16,6 @@
    
    A blog system based on  <code> python3.8 </code> and <code>Django4.0</code>.
 
-
-    <br />
-
   </p>
 </div>
 
