@@ -4,18 +4,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/karimFazlul/django-projects/">
-    <img src="https://raw.githubusercontent.com/karimFazlul/django-projects/main/logbook/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
 
 
-<h3 align="center">Django Projects</h3>
+<h2 align="center">Django Projects</h2>
 
   <p align="center">
    
    This Repo holds all my Django projects   
    <br>
-   <code> python3.8 </code>  <code>Django4.0</code>.
+   <code> python3.8 </code>  <code>Django4.0</code>
 
   </p>
 </div>
