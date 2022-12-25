@@ -89,7 +89,6 @@
 - User Profile Edit.
 
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/karimFazlul/django-projects/tree/main/logbook)
 ## Installation:
 
 Install via pip: 
