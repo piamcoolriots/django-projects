@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/karimFazlul/django-projects/">
-    <img src="loogbook/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[loogbook/images/logo.png](https://github.com/karimFazlul/django-projects/tree/main/logbook/images/logo.png)" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -25,8 +25,7 @@
   <summary>Project List</summary>
   <ol>
     <li>
-      <a href="#about-the-project">LogBook:A blog system based on Python and [![Django][Django.com]][Django-url]</a>
-      <
+      <a href="#about-the-project">LogBook:A blog system based on Python and Django</a>
     </li>
     
   </ol>
