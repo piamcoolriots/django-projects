@@ -61,7 +61,7 @@
 
 ### Built With
 
-* [![Django][Django.com]][Django-url]
+* [![django][Django]][Django-url]
 * [![DjangoRestFramework][django-rest]][rest-url]
 * [![PayPal][PayPal.com]][PayPal-url]
 * [![postgreSQL][postgre]][postgre-url]
@@ -200,7 +200,7 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Django.com]: https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=brightgreen
+[Django]: https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=brightgreen
 [Django-url]: https://www.djangoproject.com/
 [html]: https://img.shields.io/badge/HTLM-35495E?style=for-the-badge&logo=html5&logoColor=
 [html-url]:https://www.w3schools.com/html/
