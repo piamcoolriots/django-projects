@@ -1,5 +1,3 @@
-# django-projects
-
 <a name="readme-top"></a>
 
 
@@ -7,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/karimFazlul/django-projects/">
-    <img src="loogbock/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="loogbook/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -15,7 +13,7 @@
 
   <p align="center">
    
-   This Repo Holds all my django projects [![Django][Django.com]][Django-url]  <code> python3.8 </code> and <code>Django4.0</code>.
+   This Repo Holds all my django projects   <code> python3.8 </code> and <code>Django4.0</code>.
 
   </p>
 </div>
@@ -27,7 +25,7 @@
   <summary>Project List</summary>
   <ol>
     <li>
-      <a href="#about-the-project">LogBook:A blog system based on <code> python</code>  and <code>Django</code></a>
+      <a href="#about-the-project">LogBook:A blog system based on Python and [![Django][Django.com]][Django-url]</a>
       <
     </li>
     
@@ -36,7 +34,7 @@
 
 
 
-<
+
 
 
 
