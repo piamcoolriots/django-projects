@@ -27,6 +27,9 @@
     <li>
       <a href="https://github.com/karimFazlul/django-projects/tree/main/logbook/">LogBook:A blog system based on Python and Django</a>
     </li>
+    <li>
+      <a href="https://github.com/karimFazlul/django-projects/tree/main/logbook/">EcomStore:An Ecommerce platform based on  Python and Django.</a>
+    </li>
     
   </ol>
 
