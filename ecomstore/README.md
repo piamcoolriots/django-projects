@@ -64,6 +64,7 @@
 * [![Django][Django.com]][Django-url]
 * [![DjangoRestFramework][django-rest]][rest-url]
 * [![PayPal][PayPal.com]][PayPal-url]
+* [![postgreSQL][postgre]][postgre-url]
 * [![HTML][html]][html-url]
 * [![CSS][css]][css-url]
 * [![JS][javascript]][js-url]
@@ -211,3 +212,5 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 [js-url]:https://www.javascript.com/
 [django-rest]:https://img.shields.io/badge/DjangoRest%20Framework-A30000?style=for-the-badge
 [rest-url]:https://img.shields.io/badge/DjangoRest%20Framework-A30000?style=for-the-badge
+[postgre]:https://img.shields.io/badge/postgresql-353044?style=for-the-badge&logo=postgresql&logoColor=
+[postgre-url]:https://www.postgresql.org/
