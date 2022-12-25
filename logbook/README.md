@@ -64,6 +64,7 @@
 * [![Django][Django.com]][Django-url]
 * [![HTML][html]][html-url]
 * [![CSS][css]][css-url]
+* [![JS][javascript]][js-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -195,6 +196,8 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 [Django.com]: https://img.shields.io/badge/dnango-0C4B33?style=for-the-badge&logo=django&logoColor=brightgreen
 [Django-url]: https://www.djangoproject.com/
 [html]: https://img.shields.io/badge/HTLM-35495E?style=for-the-badge&logo=html5&logoColor=
-[html-url]:https://markdown-editor.github.io/#acknowledgments
+[html-url]:https://www.w3schools.com/html/
 [css]:https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=
-[css-url]:https://markdown-editor.github.io/#acknowledgments
+[css-url]:https://www.w3schools.com/css/
+[javascript]:https://img.shields.io/badge/JavaScript-critical?style=for-the-badge&logo=javascript&logoColor=white
+[js-url]:https://www.javascript.com/
