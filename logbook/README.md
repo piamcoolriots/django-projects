@@ -62,6 +62,7 @@
 ### Built With
 
 * [![Django][Django.com]][Django-url]
+* [![postgreSQL][postgre]][postgre-url]
 * [![HTML][html]][html-url]
 * [![CSS][css]][css-url]
 * [![JS][javascript]][js-url]
@@ -201,3 +202,5 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 [css-url]:https://www.w3schools.com/css/
 [javascript]:https://img.shields.io/badge/JavaScript-critical?style=for-the-badge&logo=javascript&logoColor=white
 [js-url]:https://www.javascript.com/
+[postgre]:https://img.shields.io/badge/postgresql-353044?style=for-the-badge&logo=postgresql&logoColor=
+[postgre-url]:https://www.postgresql.org/
