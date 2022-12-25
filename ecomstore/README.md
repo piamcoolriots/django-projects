@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/karimFazlul/django-projects/main/logbook/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/karimFazlul/django-projects/tree/main/ecomstore">
+    <img src="https://raw.githubusercontent.com/karimFazlul/django-projects/main/logbook/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -62,9 +62,11 @@
 ### Built With
 
 * [![Django][Django.com]][Django-url]
+* [![DjangoRestFramework][django-rest]][rest-url]
 * [![PayPal][PayPal.com]][PayPal-url]
 * [![HTML][html]][html-url]
 * [![CSS][css]][css-url]
+* [![JS][javascript]][js-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -205,3 +207,7 @@ Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 [css-url]:https://markdown-editor.github.io/#acknowledgments
 [PayPal.com]:https://img.shields.io/badge/PyaPal-35495E?style=for-the-badge&logo=paypal&logoColor=
 [PayPal-url]:https://www.paypal.com/my/home
+[javascript]:https://img.shields.io/badge/JavaScript-critical?style=for-the-badge&logo=javascript&logoColor=white
+[js-url]:https://www.javascript.com/
+[django-rest]:https://img.shields.io/badge/DjangoRest%20Framework-A30000?style=for-the-badge
+[rest-url]:https://img.shields.io/badge/DjangoRest%20Framework-A30000?style=for-the-badge
