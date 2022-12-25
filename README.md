@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/karimFazlul/django-projects/">
-    <img src="https://github.com/karimFazlul/django-projects/tree/main/logbook/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/karimFazlul/django-projects/main/logbook/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -13,7 +13,9 @@
 
   <p align="center">
    
-   This Repo Holds all my django projects   <code> python3.8 </code> and <code>Django4.0</code>.
+   This Repo holds all my Django projects   
+   <br>
+   <code> python3.8 </code>  <code>Django4.0</code>.
 
   </p>
 </div>
@@ -22,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-  <summary>Project List</summary>
+  <h3>Project List</h3>
   <ol>
     <li>
       <a href="https://github.com/karimFazlul/django-projects/tree/main/logbook/">LogBook:A blog system based on Python and Django</a>
