@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/karimFazlul/django-projects/tree/main/ecomstore">
+  <a href="https://raw.githubusercontent.com/karimFazlul/django-projects/main/logbook/images/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -150,6 +150,12 @@ Execute: `python manage.py runserver`
 Open up a browser and visit: http://127.0.0.1:8000/ , the you will see the blog.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Beginning Django E-Commerce](https://www.amazon.com/Beginning-Django-Commerce-Experts-Development/dp/1430225351)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
